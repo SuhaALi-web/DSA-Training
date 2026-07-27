@@ -1,5 +1,6 @@
-#include <iostream>
-#include <cmath>
+// #include <iostream>
+// #include <cmath>
+#include<bits/stdc++.h>
 using namespace std;
 int main(){
     int n,sum=0,rem,digits=0;
